@@ -48,31 +48,9 @@ I logged into my packet account and chose a type **c2.medium.x86**.
 
 
 
-This is probably overkill for the number of (20) users I had, but it's not that much more expensive for a short time than a smaller specc'ed machine. For my testing I also saved some $$$ by using packet's [spot pricing](https://www.packet.com/developers/changelog/improved-deployment-spot-market-views/). 
-
-The only OS that BigBlueButton supports is **Ubuntu 16.04**.
-
-
-
-
-
-
-
-| -                                                            | -                                                       |
+|                                                              |                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------- |
-| This is probably overkill for the number of (20) users I had, but it's not that much more expensive for a short time than a smaller specc'ed machine. For my testing I also saved some $$$ by using packet's [spot pricing](https://www.packet.com/developers/changelog/improved-deployment-spot-market-views/). | ![image-20200414082111652](image-20200414082111652.png) |
-
-
-
-
-
-
-
-
-
-
-
-![image-20200414082111652](image-20200414082111652.png)
+| This is probably overkill for the number of (20) users I had, but it's not that much more expensive for a short time than a smaller specc'ed machine. For my testing I also saved some $$$ by using packet's [spot pricing](https://www.packet.com/developers/changelog/improved-deployment-spot-market-views/). The only OS that BigBlueButton supports is **Ubuntu 16.04**. | ![image-20200414082111652](image-20200414082111652.png) |
 
 
 
