@@ -1,10 +1,10 @@
 # BigBlueButton on packet.com 
 
-*This page describes successsfully running and installing BigBlueButton web conferencing system on packet.com bare metal hosting.*
+*This page describes successsfully running and installing BigBlueButton web conferencing system on https://packet.com bare metal hosting.*
 
 
 
-### Introduction
+## Introduction
 
 
 
@@ -22,7 +22,7 @@ Hmmm... so who do we know that [provides on-demand baremetal cloud hosting and c
 
 
 
-### Installation
+## Installation
 
 Here's how I did it.
 
@@ -30,7 +30,7 @@ The Instructions provided in the BigBlueButton docs are comprehensive and clear,
 
 Installation should take no more that 40 minutes from start to finish, with a very few steps.
 
-##### What You'll Need 
+#### What You'll Need
 
 - A packet.com account with your personal ssh public key uploaded
 - A DNS service that you can manipulate. I use [DNSimple](https://dnsimple.com). 
@@ -38,7 +38,7 @@ Installation should take no more that 40 minutes from start to finish, with a ve
 
 
 
-##### Packet Host
+#### Packet Host
 
 I logged into my packet account and chose a type **c2.medium.x86**. 
 
@@ -74,7 +74,7 @@ root@quiz:~#
 
 
 
-##### DNS CNAME Record
+#### DNS CNAME Record
 
 Now that our server is running it's time to update your DNS. Update your A record to the IP of the newly created machine.
 
