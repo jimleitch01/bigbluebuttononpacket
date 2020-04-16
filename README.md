@@ -189,7 +189,7 @@ Create a room for your next conference ...
 
 
 
-All that's left is for you to invite your friends by sening the the URL and access code.
+All that's left is for you to invite your friends by sending the the URL and access code.
 
 
 
