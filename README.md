@@ -169,7 +169,7 @@ Look, we are all SSL-secure.
 
 
 
-<img src="image-20200416080544864.png" alt="image-20200416080544864" style="zoom: 50%;" />
+<img src="image-20200416080544864.png" alt="image-20200416080544864" style="zoom: 25%;" />
 
 
 
