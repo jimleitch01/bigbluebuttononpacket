@@ -26,7 +26,7 @@ Hmmm... so who do we know that [provides on-demand baremetal cloud hosting and c
 
 Here's how I did it.
 
-The Instructions provided in the BigBlueButton docs are comprehensive and clear, but the following might make it eaven easier for you.
+The Instructions provided in the BigBlueButton docs are comprehensive and clear, but the following might make it even easier for you.
 
 Installation should take no more that 40 minutes from start to finish, with a very few steps.
 
